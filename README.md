@@ -1,2 +1,5 @@
 # kafka-notes
-important information about kafka: CLI commands, configs..
+
+All info about kafka.
+
+- [CLI](docs/CLI.md)

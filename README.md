@@ -12,4 +12,14 @@ All info about kafka.
         * [Simple consumer](docs/Java/Consumer/Consumer.md)
         * [Threaded consumer](docs/Java/Consumer/ConsumerThread.md)
         * [Assign and seek](docs/Java/Consumer/ConsumerAssignAndSeek.md)
-    * [Advanced Configurations](docs/Java/Acks/Acks.md)
+    * Advanced Configurations:
+        * Producer:
+            * [Delivery](docs/Java/AdvancedConfigurations/Producer/Delivery/Acks.md)
+            * [Retries](docs/Java/AdvancedConfigurations/Producer/Retries/Retries.md)
+            * [Compression](docs/Java/AdvancedConfigurations/Producer/Compression/Compression.md)
+            * [Linger and batch](docs/Java/AdvancedConfigurations/Producer/LingerBatch/LingerBatch.md)
+            * [Partition and key hashing](docs/Java/AdvancedConfigurations/Producer/Partition/Partition.md)
+            * [max.block.ms and buffer.memory](docs/Java/AdvancedConfigurations/Producer/MaxBlockAndBufferMemory/MaxBlockAndBufferMemory.md)
+        * Consumer:
+            * [Delivery semantics](docs/Java/AdvancedConfigurations/Producer/MaxBlockAndBufferMemory/MaxBlockAndBufferMemory.md)
+           

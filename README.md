@@ -21,5 +21,8 @@ All info about kafka.
             * [Partition and key hashing](docs/Java/AdvancedConfigurations/Producer/Partition/Partition.md)
             * [max.block.ms and buffer.memory](docs/Java/AdvancedConfigurations/Producer/MaxBlockAndBufferMemory/MaxBlockAndBufferMemory.md)
         * Consumer:
-            * [Delivery semantics](docs/Java/AdvancedConfigurations/Producer/MaxBlockAndBufferMemory/MaxBlockAndBufferMemory.md)
+            * [Delivery semantics](docs/Java/AdvancedConfigurations/Consumer/Semantics/Semantics.md)
+            * [Poll behaviour](docs/Java/AdvancedConfigurations/Consumer/PollBehaviour/PollBehaviour.md)
+            * [Commit offsets strategies](docs/Java/AdvancedConfigurations/Consumer/CommitOffsetStrategies/CommitOffsetStrategies.md)
+            * [Internal threads](docs/Java/AdvancedConfigurations/Consumer/InternalThreads/InternalThreads.md)
            

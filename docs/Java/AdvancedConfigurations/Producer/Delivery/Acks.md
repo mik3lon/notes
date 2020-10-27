@@ -10,6 +10,7 @@ We have basically 3 options to configure `acks` Producer property.
 
 ### Acks = all
 ![](acks_all.png)
+
 ![](acks_all_in_sync_replicas.png)
 
 ### Example:

@@ -7,6 +7,7 @@ We can use the `linger.ms` and `batch.size` config to improve throughput. Let's 
 This is the compression flow:
 
 ![](linger_batch_size1.png)
+
 ![](linger_batch_size2.png)
 
 The following diagram show how it works:

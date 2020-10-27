@@ -59,5 +59,7 @@ in this case, we have to use bulk to handle this. For more explanation refer to 
 # Offset reset
 
 ![](offsetReset.png)
+
 ![](offsetReset1.png)
+
 ![](offsetReset2.png)

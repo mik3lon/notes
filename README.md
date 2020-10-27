@@ -26,6 +26,6 @@ All info about kafka.
             * [Commit offsets strategies](docs/Java/AdvancedConfigurations/Consumer/CommitOffsetStrategies/CommitOffsetStrategies.md)
             * [Internal threads](docs/Java/AdvancedConfigurations/Consumer/InternalThreads/InternalThreads.md)
     * Real world insights
-            * [Choosing partition count and replication factor](docs/RealWorldInsights/RealWorldInsights.md)
+        * [Choosing partition count and replication factor](docs/RealWorldInsights/RealWorldInsights.md)
     * Advanced partition configurations
         * [Segments and Indexes](docs/AdvancedTopicsConfig/AdvancedTopicsConfig.md)
